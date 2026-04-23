@@ -1,7 +1,7 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
-## Aula 7
+## Aula 10
   - Boas práticas de desenvolvimento de software em GRUPO ou EQUIPE
     - Sistema de Versionamento de Código: git + Github
       - controla versões
@@ -18,7 +18,7 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
       - os conceitos de técnica versus metodologia
       - pesquisar como integrar (se existe) trello com github    
 
-## Aula 6
+## Aula 9
   - Internet das Coisas: todo lugar, todo momento e conectada
     - Sistemas Pervasivos versus Sistemas Ubíquos
       - Destaque: automação residencial, comercial e industrial 
