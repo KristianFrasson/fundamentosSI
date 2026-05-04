@@ -1,0 +1,33 @@
+1. Técnica vs. Metodologia
+No desenvolvimento de software e na gestão de projetos, é comum confundir esses dois termos, mas eles operam em níveis diferentes:
+
+Técnica: É o "como" fazer uma tarefa específica. Refere-se a um conjunto de habilidades, procedimentos ou passos práticos para realizar uma atividade pontual. É algo focado na execução e na eficiência de uma única entrega.
+
+Exemplo: Realizar um git commit com uma mensagem clara é uma técnica de versionamento. Criar um cartão no Trello com etiquetas de prioridade é uma técnica de organização.
+
+Metodologia: É o "estudo do caminho". É um sistema mais amplo que reúne várias técnicas, ferramentas e princípios para organizar todo o fluxo de trabalho. A metodologia dita a estratégia geral e a filosofia por trás do projeto.
+
+Exemplo: O Kanban é uma metodologia (ou framework) que utiliza a técnica de visualização de cartões em colunas para gerenciar o fluxo de trabalho de ponta a ponta.
+
+2. Integração: Trello + GitHub
+Sim, existe uma integração oficial e muito eficiente entre as duas ferramentas. No Trello, essas integrações são chamadas de Power-Ups.
+
+Como funciona a integração:
+Ao ativar o Power-Up do GitHub em um quadro do Trello, você consegue conectar o código ao gerenciamento de tarefas. As principais funcionalidades são:
+
+Anexar Pull Requests e Commits: Você pode anexar um Pull Request específico do GitHub diretamente a um cartão do Trello. Isso permite que qualquer pessoa veja o status do código (se foi aprovado ou se há conflitos) sem sair do Trello.
+
+Status em tempo real: O cartão do Trello passa a exibir selos coloridos indicando se o build passou, quem revisou o código e se a tarefa está pronta para ser mesclada (merged).
+
+Links diretos: Facilita o salto entre a conversa sobre a tarefa (Trello) e a implementação técnica (GitHub).
+
+Como integrar (Passo a passo):
+Abra o seu quadro no Trello.
+
+Clique em Power-Ups (ou no ícone de foguete/menu lateral).
+
+Pesquise por "GitHub" e clique em Adicionar.
+
+Clique em Configurar e autorize a conexão com sua conta do GitHub.
+
+A partir daí, dentro de qualquer cartão, aparecerá um botão lateral "GitHub" para você buscar e anexar branches ou commits.
