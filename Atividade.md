@@ -1,5 +1,3 @@
-Aqui está a estrutura de pesquisa pronta para o seu trabalho, formulada com rigor acadêmico, citações de autores de referência e sugestões visuais que você já pode incluir no documento.
-
 ## O que é o Customer Relationship Management (CRM)?
 Embora o termo **Customer Relationship Management (CRM)** — ou Gestão de Relacionamento com o Cliente — seja frequentemente confundido apenas com ferramentas de software, a literatura acadêmica o define fundamentalmente como uma **estratégia de negócio**.
 
@@ -26,14 +24,11 @@ O CRM se manifesta tanto em rotinas corporativas quanto nas plataformas tecnoló
 - **Exemplos de Softwares de Mercado:** Plataformas corporativas como **Salesforce**, **HubSpot**, **Microsoft Dynamics** e **SAP CRM** são os sistemas que materializam essa estratégia nas empresas modernas.
 - **Exemplo Prático (Automação e Vendas):** Um cliente abandona um carrinho de compras em um site. O CRM registra esse comportamento (Operacional) e, no dia seguinte, dispara automaticamente um e-mail personalizado com um cupom de desconto focado no item abandonado. Posteriormente, ele analisa se a estratégia gerou lucro (Analítico).
 - **Exemplo Prático (Programas de Fidelidade):** Companhias aéreas utilizam o CRM para rastrear a frequência de voos, os assentos preferidos e as rotas de um passageiro. Com isso, conseguem oferecer upgrades automáticos para clientes da categoria *Premium* e antecipar soluções caso o voo desse cliente específico atrase.
-Para ilustrar a aplicação prática em seu trabalho, recomendo incluir uma imagem de como os dados são visualizados no dia a dia pelos gestores:
+Para ilustrar a aplicação prática
 
 ![Painel de dados do CRM](atividade13/img/licensed-image.jpg)
 
-> **Dica para o seu documento:** Use a primeira imagem na introdução do seu trabalho para ilustrar a teoria e deixe esta segunda imagem para a seção de "Exemplos" ou "Implementação", mostrando como a teoria vira prática no monitoramento de métricas.
-
 ## Fontes e Referências Bibliográficas
-Aqui estão as referências de peso acadêmico, formatadas no padrão que você pode colar diretamente na bibliografia do seu trabalho (baseado no padrão ABNT):
 
 - **KOTLER, P.; KELLER, K. L.** *Administração de Marketing*. 14. ed. São Paulo: Pearson Education do Brasil, 2012. *(Ótimo para referenciar a parte de satisfação do cliente e Customer Lifetime Value)*.
 - **PAYNE, A.; FROW, P.** A Strategic Framework for Customer Relationship Management. *Journal of Marketing*, v. 69, n. 4, p. 167-176, 2005. *(Artigo seminal para embasar a divisão do CRM em estratégico, operacional e analítico)*.
