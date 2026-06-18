@@ -68,3 +68,5 @@ Para construir um sistema ubíquo, é necessário considerar os seguintes aspect
 6. Gerenciamento de dados: sistemas ubíquos produzem grandes quantidades de dados. É importante implementar uma estratégia de gerenciamento de dados eficaz para coletar, armazenar e processar esses dados de maneira eficiente e eficaz.
 
 
+
+

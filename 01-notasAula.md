@@ -1,6 +1,38 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 13
+  - Customer Relationship Management - CRM
+    - o que é; papel; exemplos
+
+## Aula 12
+  - Correção e discussão da avaliação teórica
+
+## Aula 11
+  - Avaliação teórica
+
+## Aula 10
+  - Boas práticas de desenvolvimento de software em GRUPO ou EQUIPE
+    - Sistema de Versionamento de Código: git + Github
+      - controla versões
+      - controla backups
+      - controla equipes no desenvolvimento coletivo
+      - ...
+    - Sistema Kanban: METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+      - foi criado pela Toyota: com postit
+        - coluna1 (a fazer ou TO DO)
+        - coluna2 (fazendo ou DOING)
+        - coluna3 (feito ou DONE)
+  - ATIVIDADE:
+    - pesquisar e colocar no glossário pessoal:
+      - os conceitos de técnica versus metodologia
+      - pesquisar como integrar (se existe) trello com github    
+
+## Aula 9
+  - Internet das Coisas: todo lugar, todo momento e conectada
+    - Sistemas Pervasivos versus Sistemas Ubíquos
+      - Destaque: automação residencial, comercial e industrial 
+
 ## Aula 5
   - Tarefa avaliativa
     - Assunto: Tipos de Sistemas de Informação
